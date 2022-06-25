@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  align-content: center;
+  display: flex;
+  justify-content: space-between;
+}
+.back1 {
+  width: 50%;
+  height: 100vh;
+  padding-left: 0;
+  background-color: whitesmoke;
+}
+
+.back2 {
+  background-color: goldenrod;
+  width: 50%;
+  height: 100vh;
+}
+
+.logo {
+  font-size: 25px;
+  font-weight: bolder;
+  padding-left: 125px;
+  padding-top: 50px;
+}
+
+.menuButton {
+  padding-left: 550px;
+  padding-top: 48.5px;
+}
+
+.work {
+  text-transform: uppercase;
+  color: goldenrod;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  padding-left: 125px;
+  padding-top: 75px;
+}
+
+.name {
+  text-transform: capitalize;
+  color: black;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bolder;
+  padding-left: 125px;
+  font-size: 75px;
+}
+
+.more {
+  text-transform: uppercase;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  width: 150px;
+  height: 50px;
+  left: 125px;
+  top: 15px;
+  position: relative;
+  background-color: goldenrod;
+  color: white;
+  border: 0px;
+  border-color: goldenrod;
+}
+
+.hire {
+  text-transform: uppercase;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  font-weight: bold;
+  width: 150px;
+  height: 50px;
+  left: 125px;
+  top: 15px;
+  position: relative;
+  border: 0px;
+  background-color: darkgray;
+}
+
+.copyRight {
+  position: relative;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  top: 130px;
+  left: 125px;
+  color: grey;
+}
+
+.model {
+  width: 420px;
+  position: relative;
+  left: 150px;
+  top: 5px;
+}
